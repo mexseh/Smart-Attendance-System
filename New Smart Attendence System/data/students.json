@@ -1,0 +1,148 @@
+[
+  {
+    "id": "24BCAR0477",
+    "name": "Pavan S",
+    "email": "pavan@university.edu",
+    "password": "12345",
+    "class": "BCA A",
+    "department": "Computer Applications",
+    "role": "student"
+  },
+  {
+    "id": "24BCAR0478",
+    "name": "Sharuni",
+    "email": "sharuni@university.edu",
+    "password": "12345",
+    "class": "BCA A",
+    "department": "Computer Applications",
+    "role": "student"
+  },
+  {
+    "id": "24BCAR0479",
+    "name": "naina",
+    "email": "naina@university.edu",
+    "password": "12345",
+    "class": "BCA A",
+    "department": "Computer Applications",
+    "role": "student"
+  },
+  {
+    "id": "24BCAR0480",
+    "name": "dawood",
+    "email": "dawood@university.edu",
+    "password": "12345",
+    "class": "BCA A",
+    "department": "Computer Applications",
+    "role": "student"
+  },
+  {
+    "id": "24BCAR0481",
+    "name": "sufyan",
+    "email": "sufyan@university.edu",
+    "password": "12345",
+    "class": "BCA A",
+    "department": "Computer Applications",
+    "role": "student"
+  },
+  {
+    "id": "24BCAR0482",
+    "name": "mohan",
+    "email": "mohan@university.edu",
+    "password": "12345",
+    "class": "BCA A",
+    "department": "Computer Applications",
+    "role": "student"
+  },
+
+  {
+    "id": "24BCAR0483",
+    "name": "Riya Sharma",
+    "email": "riya@university.edu",
+    "password": "12345",
+    "class": "BCA B",
+    "department": "Computer Applications",
+    "role": "student"
+  },
+  {
+    "id": "24BCAR0484",
+    "name": "Arjun Patel",
+    "email": "arjun@university.edu",
+    "password": "12345",
+    "class": "BCA B",
+    "department": "Computer Applications",
+    "role": "student"
+  },
+  {
+    "id": "24BCAR0485",
+    "name": "Aman Gupta",
+    "email": "aman@university.edu",
+    "password": "12345",
+    "class": "BCA B",
+    "department": "Computer Applications",
+    "role": "student"
+  },
+  {
+    "id": "24BCAR0486",
+    "name": "Neha Kapoor",
+    "email": "neha@university.edu",
+    "password": "12345",
+    "class": "BCA B",
+    "department": "Computer Applications",
+    "role": "student"
+  },
+  {
+    "id": "24BCAR0487",
+    "name": "Rohan Mehta",
+    "email": "rohan@university.edu",
+    "password": "12345",
+    "class": "BCA B",
+    "department": "Computer Applications",
+    "role": "student"
+  },
+
+  {
+    "id": "24BCAR0488",
+    "name": "Ananya Reddy",
+    "email": "ananya@university.edu",
+    "password": "12345",
+    "class": "BCA C",
+    "department": "Computer Applications",
+    "role": "student"
+  },
+  {
+    "id": "24BCAR0489",
+    "name": "Kabir Singh",
+    "email": "kabir@university.edu",
+    "password": "12345",
+    "class": "BCA C",
+    "department": "Computer Applications",
+    "role": "student"
+  },
+  {
+    "id": "24BCAR0490",
+    "name": "Meera Nair",
+    "email": "meera@university.edu",
+    "password": "12345",
+    "class": "BCA C",
+    "department": "Computer Applications",
+    "role": "student"
+  },
+  {
+    "id": "24BCAR0491",
+    "name": "Vikram Rao",
+    "email": "vikram@university.edu",
+    "password": "12345",
+    "class": "BCA C",
+    "department": "Computer Applications",
+    "role": "student"
+  },
+  {
+    "id": "24BCAR0492",
+    "name": "Ishita Jain",
+    "email": "ishita@university.edu",
+    "password": "12345",
+    "class": "BCA C",
+    "department": "Computer Applications",
+    "role": "student"
+  }
+]

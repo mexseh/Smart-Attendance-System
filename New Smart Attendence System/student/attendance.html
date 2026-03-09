@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<title>My Attendance</title>
+
+<link rel="stylesheet" href="../css/global.css">
+<link rel="stylesheet" href="../css/student.css">
+
+</head>
+
+<body>
+
+<div class="main">
+
+    <!-- TOPBAR -->
+
+    <div class="topbar">
+
+        <h2>My Attendance</h2>
+
+        <button id="backBtn">
+            Back
+        </button>
+
+    </div>
+
+
+    <!-- SUBJECT FILTER -->
+    <div class="filter-bar">
+
+        <div class="filter-group">
+            <label for="subjectFilter">Filter by Subject</label>
+
+            <select id="subjectFilter">
+                <option value="all">All Subjects</option>
+            </select>
+        </div>
+
+    </div>
+
+    <!-- ATTENDANCE STATS -->
+
+    <div class="stats">
+
+        <div class="card stat">
+            <h3 id="attendancePercent">0%</h3>
+            <p>Attendance Rate</p>
+        </div>
+
+        <div class="card stat">
+            <h3 id="classesAttended">0</h3>
+            <p>Classes Attended</p>
+        </div>
+
+        <div class="card stat">
+            <h3 id="classesMissed">0</h3>
+            <p>Classes Missed</p>
+        </div>
+
+    </div>
+
+
+    <!-- ATTENDANCE TABLE -->
+
+    <div class="card">
+
+        <h3>Attendance Records</h3>
+
+        <table>
+
+            <thead>
+                <tr>
+                    <th>Subject</th>
+                    <th>Date</th>
+                    <th>Status</th>
+                    <th>Time</th>
+                </tr>
+            </thead>
+
+            <tbody id="attendanceTable">
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+</div>
+
+
+<script src="../js/attendance.js"></script>
+
+</body>
+
+</html>

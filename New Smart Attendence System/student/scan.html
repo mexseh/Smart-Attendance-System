@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Scan Attendance</title>
+
+    <link rel="stylesheet" href="../css/global.css">
+    <link rel="stylesheet" href="../css/student.css">
+
+    <script src="https://unpkg.com/html5-qrcode"></script>
+</head>
+
+<body>
+
+    <div class="scan-page">
+
+        <div class="scan-header">
+            <h2>Scan Attendance QR</h2>
+
+            <button onclick="goBack()" class="btn history-btn">
+                Back to Dashboard
+            </button>
+        </div>
+
+        <div class="scan-card">
+
+            <div id="reader"></div>
+
+            <button id="startScanBtn" class="btn scan-btn">
+                Scan QR
+            </button>
+
+            <p id="scanStatus"></p>
+
+        </div>
+
+    </div>
+
+
+    <script src="../js/auth-check.js"></script>
+    <script src="../js/qr-scanner.js"></script>
+
+    <script>
+        function goBack() {
+            window.location.href = "dashboard.html"
+        }
+    </script>
+
+</body>
+
+</html>
